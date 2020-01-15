@@ -9,10 +9,14 @@ def isPrime(x):
     else:
         return False
 
-count = 0
-n = 0
+# As we know that 2 is our first prime
+count = 2
+n = 1
 while count <= 10001:
+    # Addition of two as we know all primes except tow are odd.
+    # So no need to iterate up by one each time.
+    n+=2
     if isPrime(n):
         print("The", count, "prime is", n)
         count += 1
-    n+=1
+
