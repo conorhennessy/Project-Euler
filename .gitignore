@@ -1,0 +1,7 @@
+# Python venv files
+venv/
+
+# JetBrains IDE files
+.idea/
+*.xml
+*.iml
