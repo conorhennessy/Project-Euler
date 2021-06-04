@@ -22,9 +22,9 @@ numbers = [[8, 2, 22, 97, 38, 15, 0, 40, 0, 75, 4, 5, 7, 78, 52, 12, 50, 77, 91,
 prod = 0
 
 h = 0 # across
-while h < 20:
+while h < len(numbers[0]) - 1:
     v = 0 # down
-    while v < 20:
+    while v < len(numbers) - 1:
         up = False
         down = False
         left = False
