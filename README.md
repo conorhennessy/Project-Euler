@@ -12,8 +12,3 @@ However, I do try to write code which is the most efficient and runs as quickly 
 
 ### What is Project Euler?
 Project Euler is a series of challenging mathematical/programming problems that will require more than just mathematical insights to solve.
-
-----
-Copyright © 2019+ Conor Hennessy. All rights reserved & no warranty.
-
-This code is provided for reference only. You may republish any of this code verbatim with reference to the author and URL info intact. You need written permission from the author to make modifications to the code, include parts into your own work, etc.
